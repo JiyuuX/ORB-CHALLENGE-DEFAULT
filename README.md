@@ -57,7 +57,7 @@ api/event/catrgory/<category_name>/ (GET) : <br />
 
 (1) ![image](https://github.com/JiyuuX/ORB-CHALLENGE-DEFAULT/assets/139239394/4e5e72a8-fab1-44c9-91af-c741b20f5b43) <br />
 
-(2) ![image](https://github.com/JiyuuX/ORB-CHALLENGE-DEFAULT/assets/139239394/ed6ac840-38c7-4dea-8094-549a59939f52) <br />
+(2) <br /> ![image](https://github.com/JiyuuX/ORB-CHALLENGE-DEFAULT/assets/139239394/ed6ac840-38c7-4dea-8094-549a59939f52) <br />
 
 <br />
 api/events/<event_id>/ (DELETE) :  <br />
